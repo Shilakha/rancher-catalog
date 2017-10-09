@@ -6,4 +6,6 @@ category: Test
 maintainer: Tani Fiducciaw
 license: 9087 licensess
 projectURL: http://www.google.com
+labels:
+  io.rancher.certified: experimental
 

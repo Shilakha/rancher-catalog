@@ -8,4 +8,5 @@ license: 9087 licensess
 projectURL: http://www.google.com
 labels:
   io.rancher.certified: Certified
+  color:red
 

@@ -4,10 +4,4 @@ description: |
 version: 1.0.0
 category: test
 labels:
-  certified:
-      rancher:
-        rancher: Rancher Labs
-        partner: Official
-      pl:
-        rancher: Core
-        partner: Official
+   io.rancher.certified: experimental
